@@ -1,7 +1,7 @@
 # matlab-for-Kalman-Filter
 为方便读者阅读专著
 # 金学波，![Kalman滤波器理论与应用——基于MATLAB实现](http://www.ecsponline.com/goods.php?id=177510)，科学出版社，2016
-我们在这里提供以下该书的全部matlab程序，请下载：
+我们在这里提供该书的全部matlab程序，请下载：
  ![程序源码](https://github.com/Xue-boJin/matlab-for-Kalman-Filter/blob/master/Kalman_matlab%E7%A8%8B%E5%BA%8F.zip)
 ## 本书的基本结构
 
